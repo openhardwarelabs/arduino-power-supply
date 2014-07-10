@@ -4,17 +4,17 @@ Recipe to build the Arduino Power Supply project
 
 ## Components
 
-* Myrra AC/DC module 5V 0.5W ()
+* Myrra 47122 AC/DC module 5V 2.75W ([http://canada.newark.com/myrra/47122/power-supply-2-75w-5vdc/dp/90R9579](http://canada.newark.com/myrra/47122/power-supply-2-75w-5vdc/dp/90R9579))
 * 2-pin screw terminal 5mm pitch ([https://www.sparkfun.com/products/8432](https://www.sparkfun.com/products/8432))
 * 4-pin header ([https://www.sparkfun.com/products/116](https://www.sparkfun.com/products/116))
-* LM7803 voltage regulator ()
-* 10uF capacitor ()
-* 1uF capacitor ()
+* 3.3V voltage regulator ([https://www.sparkfun.com/products/526](https://www.sparkfun.com/products/526))
+* 10uF polarized capacitor
+* 100nF capacitor
 * PCB (see Fabrication step)
 
 ## Fabrication
 
-* Send the EAGLE files at []() 
+* Send the EAGLE files at [https://github.com/openhardwarelabs/arduino-power-supply/tree/master/pcb](https://github.com/openhardwarelabs/arduino-power-supply/tree/master/pcb) 
 * Send these files to a PCB manufacturer
 * Wait until your receive the PCB
 

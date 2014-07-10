@@ -453,8 +453,8 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="43.815" y="69.85" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="JP2" library="SparkFun-Connectors" package="SCREWTERMINAL-5MM-2" value="M025MM" x="3.175" y="67.31" rot="R270"/>
-<element name="C1" library="SparkFun-Passives" package="CPOL-RADIAL-10UF-25V" value="" x="39.37" y="77.47" rot="R180"/>
-<element name="C2" library="SparkFun-Passives" package="CPOL-RADIAL-10UF-25V" value="" x="39.37" y="71.12" rot="R180"/>
+<element name="C1" library="SparkFun-Passives" package="CPOL-RADIAL-10UF-25V" value="100nF" x="39.37" y="77.47" rot="R180"/>
+<element name="C2" library="SparkFun-Passives" package="CPOL-RADIAL-10UF-25V" value="10uF" x="39.37" y="71.12" rot="R180"/>
 <element name="IC1" library="v-reg" package="78XXS" value="" x="36.83" y="62.23" rot="R90"/>
 <element name="U$2" library="myrra" package="1" value="" x="21.59" y="64.77"/>
 </elements>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2050,8 +2050,8 @@ Source: http://www.myrra.com</description>
 <parts>
 <part name="JP1" library="SparkFun-Connectors" deviceset="M04" device="PTH"/>
 <part name="JP2" library="SparkFun-Connectors" deviceset="M02" device="5MM"/>
-<part name="C1" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH2"/>
-<part name="C2" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH2"/>
+<part name="C1" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH2" value="100nF"/>
+<part name="C2" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH2" value="10uF"/>
 <part name="IC1" library="v-reg" deviceset="78XXS" device=""/>
 <part name="U$2" library="myrra" deviceset="SINGLE" device=""/>
 </parts>
